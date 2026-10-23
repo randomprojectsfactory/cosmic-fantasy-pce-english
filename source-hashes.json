@@ -1,0 +1,613 @@
+{
+  "release": "2026.10.23.1",
+  "requirements": [
+    "System Card 3 / Super CD memory",
+    "Exact Japanese separate-track raw BIN/CUE disc layout"
+  ],
+  "files": [
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 01).bin",
+      "size": 7914480,
+      "input_sha256": "076adfd634389556ac9e672b34a174da9fe23380f6766da30608d73ff3bc229a",
+      "output_sha256": "076adfd634389556ac9e672b34a174da9fe23380f6766da30608d73ff3bc229a"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 02).bin",
+      "size": 20210736,
+      "input_sha256": "f893b19f66d24d30dbd51d086e65452681b0cedfe74ac822901146227948d97c",
+      "output_sha256": "6e254bb5c231c646ab3367f99f5519505383796d92b7f7ce54e91e1d92ab6a9d",
+      "patch": "Cosmic-Fantasy-English-Track02.xdelta",
+      "patch_sha256": "569cc410f56da77d8a60cfde7ec4fc1988430cea233ed58dbc0e6ce6410a65fe"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 03).bin",
+      "size": 4179504,
+      "input_sha256": "c0285fd105ba683ae9743b06ed8d6baf216beefc6a37e686fbfdbfb9d88add80",
+      "output_sha256": "c0285fd105ba683ae9743b06ed8d6baf216beefc6a37e686fbfdbfb9d88add80"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 04).bin",
+      "size": 1860432,
+      "input_sha256": "5db01553303a460d966d9d2819dae3ebaf34e4a5190ef476f24a3ecbf81bcba5",
+      "output_sha256": "5db01553303a460d966d9d2819dae3ebaf34e4a5190ef476f24a3ecbf81bcba5"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 05).bin",
+      "size": 3563280,
+      "input_sha256": "8cf2598db5318720814b18360d180a489efb75fcd57d2f788a06e573124646da",
+      "output_sha256": "8cf2598db5318720814b18360d180a489efb75fcd57d2f788a06e573124646da"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 06).bin",
+      "size": 1382976,
+      "input_sha256": "3b6a1ff604a4e91aedc6b83746dfc4e8d4f35a7e0f1ce77ac6dba33b7561f0d1",
+      "output_sha256": "3b6a1ff604a4e91aedc6b83746dfc4e8d4f35a7e0f1ce77ac6dba33b7561f0d1"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 07).bin",
+      "size": 5007408,
+      "input_sha256": "57497c658b5d9a60867186af6f4f030c0d4340f11d8ffa369dff75f88c6cc02a",
+      "output_sha256": "57497c658b5d9a60867186af6f4f030c0d4340f11d8ffa369dff75f88c6cc02a"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 08).bin",
+      "size": 1933344,
+      "input_sha256": "21ae5f5d56a3a622d39697da36adc4248089e04568bfef8eef23417aaf816a78",
+      "output_sha256": "21ae5f5d56a3a622d39697da36adc4248089e04568bfef8eef23417aaf816a78"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 09).bin",
+      "size": 1707552,
+      "input_sha256": "a1bcdf6a03cae5ee66198c7721fbb980b8075705be467925f71cfdbb9ad19a48",
+      "output_sha256": "a1bcdf6a03cae5ee66198c7721fbb980b8075705be467925f71cfdbb9ad19a48"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 10).bin",
+      "size": 1552320,
+      "input_sha256": "3f8c086cfc063804394e0bcfccb5dc7f54bff9a193e784c3efdd66a65510bcc2",
+      "output_sha256": "3f8c086cfc063804394e0bcfccb5dc7f54bff9a193e784c3efdd66a65510bcc2"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 11).bin",
+      "size": 7538160,
+      "input_sha256": "9974355c62101b91106944e866a5073debfe12d63ed66f6f1a72fdec9248c440",
+      "output_sha256": "9974355c62101b91106944e866a5073debfe12d63ed66f6f1a72fdec9248c440"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 12).bin",
+      "size": 4170096,
+      "input_sha256": "22b34247ef1ebf18a6bd3dd8db55dcf0b0be50999df223e4d02e9230023df90d",
+      "output_sha256": "22b34247ef1ebf18a6bd3dd8db55dcf0b0be50999df223e4d02e9230023df90d"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 13).bin",
+      "size": 1538208,
+      "input_sha256": "7924ed225b01d7f9e7942bcbf22b870a6ff82de170a52066e68b83051faa4931",
+      "output_sha256": "7924ed225b01d7f9e7942bcbf22b870a6ff82de170a52066e68b83051faa4931"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 14).bin",
+      "size": 3170496,
+      "input_sha256": "1cddeabc4e27a598d15b43d83e3dbe539a811407d8751320f7161f028a2f6956",
+      "output_sha256": "1cddeabc4e27a598d15b43d83e3dbe539a811407d8751320f7161f028a2f6956"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 15).bin",
+      "size": 9586752,
+      "input_sha256": "1a60ba400aec659d42d2e52e4227e210ef8abc7923096844392a31a6da1a62b4",
+      "output_sha256": "1a60ba400aec659d42d2e52e4227e210ef8abc7923096844392a31a6da1a62b4"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 16).bin",
+      "size": 2410800,
+      "input_sha256": "5c47c79ccbbc0e645428016973be52538a8b85e62850f3db4fd9ba999dfe316a",
+      "output_sha256": "5c47c79ccbbc0e645428016973be52538a8b85e62850f3db4fd9ba999dfe316a"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 17).bin",
+      "size": 1112496,
+      "input_sha256": "1e84cad006b52bf1db6d8c7d86fe95fb80715aab0fe167ef3c20ccef52b35dce",
+      "output_sha256": "1e84cad006b52bf1db6d8c7d86fe95fb80715aab0fe167ef3c20ccef52b35dce"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 18).bin",
+      "size": 2072112,
+      "input_sha256": "3e59e82ac3fb7e359aac423cdd150044aa7522819639fdb6a21bf657fe2927a7",
+      "output_sha256": "3e59e82ac3fb7e359aac423cdd150044aa7522819639fdb6a21bf657fe2927a7"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 19).bin",
+      "size": 3746736,
+      "input_sha256": "aa9a87211e4ee9475301c24162fd93e4584ac430e5beb13c29b138c89e66145b",
+      "output_sha256": "aa9a87211e4ee9475301c24162fd93e4584ac430e5beb13c29b138c89e66145b"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 20).bin",
+      "size": 2027424,
+      "input_sha256": "b103983c0dfd0dbac0b8a8b1bc6c6089d2438b80558838976d7aa330065314b6",
+      "output_sha256": "b103983c0dfd0dbac0b8a8b1bc6c6089d2438b80558838976d7aa330065314b6"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 21).bin",
+      "size": 2497824,
+      "input_sha256": "c96aa615164a5162a23079d4d841119c01a03c87e58bbb462413429d747cf5ff",
+      "output_sha256": "c96aa615164a5162a23079d4d841119c01a03c87e58bbb462413429d747cf5ff"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 22).bin",
+      "size": 2441376,
+      "input_sha256": "6732e35ae4588921ca468fe0e09846e600c48945c2a660c3d70eeef16006ce2c",
+      "output_sha256": "6732e35ae4588921ca468fe0e09846e600c48945c2a660c3d70eeef16006ce2c"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 23).bin",
+      "size": 1312416,
+      "input_sha256": "df454621caac30258c4d2bcebc87a36968d6348522d1d9b33d8301ca1552b460",
+      "output_sha256": "df454621caac30258c4d2bcebc87a36968d6348522d1d9b33d8301ca1552b460"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 24).bin",
+      "size": 1230096,
+      "input_sha256": "fcbc23f029e7d556c7a52c1eb8c572d1cd77ea6a8d2f184f075986372549298b",
+      "output_sha256": "fcbc23f029e7d556c7a52c1eb8c572d1cd77ea6a8d2f184f075986372549298b"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 25).bin",
+      "size": 9111648,
+      "input_sha256": "f50922bc469ee46e6c81e4d4211cfa4002dec5efd62e2e2cf921056d9c12ef16",
+      "output_sha256": "f50922bc469ee46e6c81e4d4211cfa4002dec5efd62e2e2cf921056d9c12ef16"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 26).bin",
+      "size": 3589152,
+      "input_sha256": "5509f605aed655be053599a9b2a9d97291a6e5cccecc1534cd9431b6887ed1b7",
+      "output_sha256": "5509f605aed655be053599a9b2a9d97291a6e5cccecc1534cd9431b6887ed1b7"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 27).bin",
+      "size": 1126608,
+      "input_sha256": "1aa00d11d7312a5a631a73ec995ba285f791bf58cd463b36d05f4f5090be64ba",
+      "output_sha256": "1aa00d11d7312a5a631a73ec995ba285f791bf58cd463b36d05f4f5090be64ba"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 28).bin",
+      "size": 2580144,
+      "input_sha256": "05ed9e53460d8ca47573f1a813cea4cc969e6f10428b93622cd35551ca9b9431",
+      "output_sha256": "05ed9e53460d8ca47573f1a813cea4cc969e6f10428b93622cd35551ca9b9431"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 29).bin",
+      "size": 2932944,
+      "input_sha256": "4f53e9c19ba20a4673fcbd5300d282eb5be5990c1edc932ac2c83d06433ce549",
+      "output_sha256": "4f53e9c19ba20a4673fcbd5300d282eb5be5990c1edc932ac2c83d06433ce549"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 30).bin",
+      "size": 3031728,
+      "input_sha256": "229155c3605868d4e7c10d7b1062a8641e656ebcb0142aa06db834f105f04ec6",
+      "output_sha256": "229155c3605868d4e7c10d7b1062a8641e656ebcb0142aa06db834f105f04ec6"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 31).bin",
+      "size": 6340992,
+      "input_sha256": "9b701f2b973847261ccd5684ab968174c95dad5b42cb27e7f77321b991f5486f",
+      "output_sha256": "9b701f2b973847261ccd5684ab968174c95dad5b42cb27e7f77321b991f5486f"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 32).bin",
+      "size": 1197168,
+      "input_sha256": "8bbf576fdcc4f3e52ff5cae5beacd8414148f7954618e884e4718cc68653bf16",
+      "output_sha256": "8bbf576fdcc4f3e52ff5cae5beacd8414148f7954618e884e4718cc68653bf16"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 33).bin",
+      "size": 2130912,
+      "input_sha256": "6c8cb279421cfe144a3fe241ea69cd15b3de30e464d838eeab5b26e8ba657829",
+      "output_sha256": "6c8cb279421cfe144a3fe241ea69cd15b3de30e464d838eeab5b26e8ba657829"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 34).bin",
+      "size": 1557024,
+      "input_sha256": "fe8b2791f46d3af5b8597e700e41dc35e0895b7c946cd9556163f6593a4d89c9",
+      "output_sha256": "fe8b2791f46d3af5b8597e700e41dc35e0895b7c946cd9556163f6593a4d89c9"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 35).bin",
+      "size": 9422112,
+      "input_sha256": "8d13280352f2416f49edb9a9aff61b1087fa55efb5bb5ac8f2a747132cc7ce8c",
+      "output_sha256": "8d13280352f2416f49edb9a9aff61b1087fa55efb5bb5ac8f2a747132cc7ce8c"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 36).bin",
+      "size": 820848,
+      "input_sha256": "9dd7aa7d721df4a0f843789699a31c106a5544c7d229d512639d044d1a2b9c08",
+      "output_sha256": "9dd7aa7d721df4a0f843789699a31c106a5544c7d229d512639d044d1a2b9c08"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 37).bin",
+      "size": 4358256,
+      "input_sha256": "340909b9005d7a4edeccfdeb4607243f903d5b456f68b369291656aac83f300a",
+      "output_sha256": "340909b9005d7a4edeccfdeb4607243f903d5b456f68b369291656aac83f300a"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 38).bin",
+      "size": 2704800,
+      "input_sha256": "9f4d28de7b44fa578ad44d294bcfd94fed34188799bb66110868391998ac848a",
+      "output_sha256": "9f4d28de7b44fa578ad44d294bcfd94fed34188799bb66110868391998ac848a"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 39).bin",
+      "size": 1378272,
+      "input_sha256": "3949e9915730778bf91dab80726df1010f40885a3e99f3a7e3cb6bccc1be6e1a",
+      "output_sha256": "3949e9915730778bf91dab80726df1010f40885a3e99f3a7e3cb6bccc1be6e1a"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 40).bin",
+      "size": 4195968,
+      "input_sha256": "cbaa25c7e865779ae3cd7e9c67c936978a8b71e9141542e956502e5140e197d1",
+      "output_sha256": "cbaa25c7e865779ae3cd7e9c67c936978a8b71e9141542e956502e5140e197d1"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 41).bin",
+      "size": 707952,
+      "input_sha256": "ec5025e7a3475d8be6e2f2565c64f9ddcea37ee69901ec1de2605f7d71eac87c",
+      "output_sha256": "ec5025e7a3475d8be6e2f2565c64f9ddcea37ee69901ec1de2605f7d71eac87c"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 42).bin",
+      "size": 1587600,
+      "input_sha256": "f5448f4a72c0ee6b7ccece5247d96a9eb6a7985e9a9320f975a17bcd6d3a4e01",
+      "output_sha256": "f5448f4a72c0ee6b7ccece5247d96a9eb6a7985e9a9320f975a17bcd6d3a4e01"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 43).bin",
+      "size": 2852976,
+      "input_sha256": "6f91a9416c016b0007bf92764389b74dea743949653be655025533de46a4f8be",
+      "output_sha256": "6f91a9416c016b0007bf92764389b74dea743949653be655025533de46a4f8be"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 44).bin",
+      "size": 5423712,
+      "input_sha256": "e3d93c5d51b5f7793402c671b78aa545e010cfe1176855b617611c3d01cd2d0d",
+      "output_sha256": "e3d93c5d51b5f7793402c671b78aa545e010cfe1176855b617611c3d01cd2d0d"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 45).bin",
+      "size": 2949408,
+      "input_sha256": "e3f374fc3b3d928011f4837ffd724781c806246daf376a2ef1d9fd1999eeb0b2",
+      "output_sha256": "e3f374fc3b3d928011f4837ffd724781c806246daf376a2ef1d9fd1999eeb0b2"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 46).bin",
+      "size": 2688336,
+      "input_sha256": "ca20de859f5fdccd917ee71d4b1105d133348437b78c55ab7c57269de59a23f5",
+      "output_sha256": "ca20de859f5fdccd917ee71d4b1105d133348437b78c55ab7c57269de59a23f5"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 47).bin",
+      "size": 983136,
+      "input_sha256": "40494848b99de322f224b823569702a21cdf4e7c2e91374de21c19c32902fc1f",
+      "output_sha256": "40494848b99de322f224b823569702a21cdf4e7c2e91374de21c19c32902fc1f"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 48).bin",
+      "size": 4261824,
+      "input_sha256": "9e12f1dccc87f237857f90baaaa0adfe98a2f7c8cab05be2ff2929800772d719",
+      "output_sha256": "9e12f1dccc87f237857f90baaaa0adfe98a2f7c8cab05be2ff2929800772d719"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 49).bin",
+      "size": 2048592,
+      "input_sha256": "db4a393629c94e87e63823db757eb36b9c9b9edfbac41137266cf2d14abb63ab",
+      "output_sha256": "db4a393629c94e87e63823db757eb36b9c9b9edfbac41137266cf2d14abb63ab"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 50).bin",
+      "size": 2394336,
+      "input_sha256": "a21e799c1b1e76683f05866015cbf38f69de06a4af23382980dac5bc79f3cf6a",
+      "output_sha256": "a21e799c1b1e76683f05866015cbf38f69de06a4af23382980dac5bc79f3cf6a"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 51).bin",
+      "size": 1639344,
+      "input_sha256": "d162cbe39124befe36985a737ec278cec8239191549b5987f2cb44962c6ef5c2",
+      "output_sha256": "d162cbe39124befe36985a737ec278cec8239191549b5987f2cb44962c6ef5c2"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 52).bin",
+      "size": 1394736,
+      "input_sha256": "fec22170dedcb6c919f49a470f8b3ba443fa89ef90012c93b78b2365ab7e9479",
+      "output_sha256": "fec22170dedcb6c919f49a470f8b3ba443fa89ef90012c93b78b2365ab7e9479"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 53).bin",
+      "size": 707952,
+      "input_sha256": "0265d422867bfdd6df4dc60e8c06f787c637d3feec8bdc1c3e306df37fe2baff",
+      "output_sha256": "0265d422867bfdd6df4dc60e8c06f787c637d3feec8bdc1c3e306df37fe2baff"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 54).bin",
+      "size": 2243808,
+      "input_sha256": "3fa41b40cf45eea1dc0635955b70d835e98ae826521d7aa26946f2ff254a21b8",
+      "output_sha256": "3fa41b40cf45eea1dc0635955b70d835e98ae826521d7aa26946f2ff254a21b8"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 55).bin",
+      "size": 6865488,
+      "input_sha256": "d9527430e60712440a5e2018162f49174b7696eaa0e2cfc77e86f7600a1786d6",
+      "output_sha256": "d9527430e60712440a5e2018162f49174b7696eaa0e2cfc77e86f7600a1786d6"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 56).bin",
+      "size": 2065056,
+      "input_sha256": "902d7f50455d737c45e3d31970f83a06d9e1dcb1ec9cea5676fbbf2540c1db7e",
+      "output_sha256": "902d7f50455d737c45e3d31970f83a06d9e1dcb1ec9cea5676fbbf2540c1db7e"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 57).bin",
+      "size": 1246560,
+      "input_sha256": "5dad1e1d8b3149d3ab7be456a1b6a4bf9cb0c8bb4024356e683ef8c2928c28de",
+      "output_sha256": "5dad1e1d8b3149d3ab7be456a1b6a4bf9cb0c8bb4024356e683ef8c2928c28de"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 58).bin",
+      "size": 4736928,
+      "input_sha256": "85f674d25fa5f54d4910596a0367eb933644b95e9f518f52c47fbdf11389c45d",
+      "output_sha256": "85f674d25fa5f54d4910596a0367eb933644b95e9f518f52c47fbdf11389c45d"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 59).bin",
+      "size": 8192016,
+      "input_sha256": "3ba037ceb34be51e1b97370432c4f4bb864e39335bec27909fcfd9be3437c8c1",
+      "output_sha256": "3ba037ceb34be51e1b97370432c4f4bb864e39335bec27909fcfd9be3437c8c1"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 60).bin",
+      "size": 4228896,
+      "input_sha256": "fc2c652d3e5ff8ee7dbbe3458bd1e7fd0ac00312fc52e0e1e26c3e404f62e5a0",
+      "output_sha256": "fc2c652d3e5ff8ee7dbbe3458bd1e7fd0ac00312fc52e0e1e26c3e404f62e5a0"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 61).bin",
+      "size": 2622480,
+      "input_sha256": "878ebe78008157b7178cba134d891fb2ec7746983edf43cce59e163789104db1",
+      "output_sha256": "878ebe78008157b7178cba134d891fb2ec7746983edf43cce59e163789104db1"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 62).bin",
+      "size": 8700048,
+      "input_sha256": "c4a878cd3f3d175bac5c12516fce060fe8d91c8f21ace6b701115b3ee43b043f",
+      "output_sha256": "c4a878cd3f3d175bac5c12516fce060fe8d91c8f21ace6b701115b3ee43b043f"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 63).bin",
+      "size": 1394736,
+      "input_sha256": "c31d9617d39974db0f3142fe49c136ebd7aa2b32109b451797236752965c4879",
+      "output_sha256": "c31d9617d39974db0f3142fe49c136ebd7aa2b32109b451797236752965c4879"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 64).bin",
+      "size": 3852576,
+      "input_sha256": "f136a115e2d47289325f0204761f43e9f30dfb20267562f9460c145a8e01df75",
+      "output_sha256": "f136a115e2d47289325f0204761f43e9f30dfb20267562f9460c145a8e01df75"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 65).bin",
+      "size": 1966272,
+      "input_sha256": "d9f5c3f8a2b400507081449abb2199ab62fa8a31fd9a467b76a961578f35daba",
+      "output_sha256": "d9f5c3f8a2b400507081449abb2199ab62fa8a31fd9a467b76a961578f35daba"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 66).bin",
+      "size": 2869440,
+      "input_sha256": "5edb8e9446d3bb07b89675e41478723fbe9252d537e47757b4318cfeb90e5904",
+      "output_sha256": "5edb8e9446d3bb07b89675e41478723fbe9252d537e47757b4318cfeb90e5904"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 67).bin",
+      "size": 5407248,
+      "input_sha256": "199f3f85390181bd165d55e5eb4105ec1c36c0681495b4ba5c8d3256ddeefa02",
+      "output_sha256": "199f3f85390181bd165d55e5eb4105ec1c36c0681495b4ba5c8d3256ddeefa02"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 68).bin",
+      "size": 707952,
+      "input_sha256": "ce70089f0e35b9d43e26c4f89280c2f39e54a5b5d31aad85dba83470324e9bca",
+      "output_sha256": "ce70089f0e35b9d43e26c4f89280c2f39e54a5b5d31aad85dba83470324e9bca"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 69).bin",
+      "size": 707952,
+      "input_sha256": "731039773f4c4a9515dcab907a942805c284ac0cec3f79347636e54992c0c734",
+      "output_sha256": "731039773f4c4a9515dcab907a942805c284ac0cec3f79347636e54992c0c734"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 70).bin",
+      "size": 2667168,
+      "input_sha256": "8121e63e6b58b3bfbb346d40a8c7497bfb35c4be86ffa8d2de9da367344188e7",
+      "output_sha256": "8121e63e6b58b3bfbb346d40a8c7497bfb35c4be86ffa8d2de9da367344188e7"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 71).bin",
+      "size": 903168,
+      "input_sha256": "96b40dd18b95cd6104f1c17cf74fb1679afa56830914ef570e380ac37a6dee42",
+      "output_sha256": "96b40dd18b95cd6104f1c17cf74fb1679afa56830914ef570e380ac37a6dee42"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 72).bin",
+      "size": 3114048,
+      "input_sha256": "fa8c1995372924060e3c5f92290cfd44f598aa2dcc9b4624b1eebf52b674cb6f",
+      "output_sha256": "fa8c1995372924060e3c5f92290cfd44f598aa2dcc9b4624b1eebf52b674cb6f"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 73).bin",
+      "size": 1491168,
+      "input_sha256": "b08b8270454735b52215081a09b0124857503e240e75c474e603ea97b80c02e9",
+      "output_sha256": "b08b8270454735b52215081a09b0124857503e240e75c474e603ea97b80c02e9"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 74).bin",
+      "size": 6964272,
+      "input_sha256": "a31b65d3a6a5e7635d044337bda7d24e7dfd5a9e36e69d7ad7912ade752bf44f",
+      "output_sha256": "a31b65d3a6a5e7635d044337bda7d24e7dfd5a9e36e69d7ad7912ade752bf44f"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 75).bin",
+      "size": 738528,
+      "input_sha256": "fcf647759c7c42274faea66643beae4b7350279cdd59976ec3e7156dabc3f931",
+      "output_sha256": "fcf647759c7c42274faea66643beae4b7350279cdd59976ec3e7156dabc3f931"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 76).bin",
+      "size": 46433184,
+      "input_sha256": "15a049bf96f6e291372934a4f7e3c5d2e9e4ae14f921055a45c5cda73ab70705",
+      "output_sha256": "15a049bf96f6e291372934a4f7e3c5d2e9e4ae14f921055a45c5cda73ab70705"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 77).bin",
+      "size": 36390144,
+      "input_sha256": "f7fe33eca588c7cd2fedeb65a720b533f686f1fd043a789a494c8a46f74f761e",
+      "output_sha256": "f7fe33eca588c7cd2fedeb65a720b533f686f1fd043a789a494c8a46f74f761e"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 78).bin",
+      "size": 30705360,
+      "input_sha256": "4f72100057b770c692eb86a932bff9d13891f25b4bc7503dc686ac2f6b541973",
+      "output_sha256": "4f72100057b770c692eb86a932bff9d13891f25b4bc7503dc686ac2f6b541973"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 79).bin",
+      "size": 754992,
+      "input_sha256": "8590c8bcb270f0ec05ab1740b80da56fc2cca3651218fc471666e16f1b80c766",
+      "output_sha256": "8590c8bcb270f0ec05ab1740b80da56fc2cca3651218fc471666e16f1b80c766"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 80).bin",
+      "size": 707952,
+      "input_sha256": "c3bd76e3caacef52d6bc56dff378b04761170ef3cc5d7c8c94fdbbb5103ab4a2",
+      "output_sha256": "c3bd76e3caacef52d6bc56dff378b04761170ef3cc5d7c8c94fdbbb5103ab4a2"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 81).bin",
+      "size": 820848,
+      "input_sha256": "9c6dc396f97f05330e429c41d78da3dc44c1697a1f0de4069432e6e1adb71ae3",
+      "output_sha256": "9c6dc396f97f05330e429c41d78da3dc44c1697a1f0de4069432e6e1adb71ae3"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 82).bin",
+      "size": 950208,
+      "input_sha256": "f16e32f185ae6a16611bdabec2dfea38abe2dcbac4b6f8fc7386985c0b8545ac",
+      "output_sha256": "f16e32f185ae6a16611bdabec2dfea38abe2dcbac4b6f8fc7386985c0b8545ac"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 83).bin",
+      "size": 1147776,
+      "input_sha256": "a0d55247c5cd170ee01c3d5197b1580162d8210349d2b0eaeb32293cd877133c",
+      "output_sha256": "a0d55247c5cd170ee01c3d5197b1580162d8210349d2b0eaeb32293cd877133c"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 84).bin",
+      "size": 787920,
+      "input_sha256": "001ba20cf51e62aadf90610c85674e4a6aca15f67664f8667c8cee5b6ab46484",
+      "output_sha256": "001ba20cf51e62aadf90610c85674e4a6aca15f67664f8667c8cee5b6ab46484"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 85).bin",
+      "size": 707952,
+      "input_sha256": "709ac127f3d66e763b7d43b3d5e2536427e6630d562e89214e762e5a57b7b220",
+      "output_sha256": "709ac127f3d66e763b7d43b3d5e2536427e6630d562e89214e762e5a57b7b220"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 86).bin",
+      "size": 2130912,
+      "input_sha256": "6cba783ec786e0c290d4726ea08d9522a892e6c6b3d7c45780459112813acdf2",
+      "output_sha256": "6cba783ec786e0c290d4726ea08d9522a892e6c6b3d7c45780459112813acdf2"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 87).bin",
+      "size": 1328880,
+      "input_sha256": "9f42e31f447f8dd4260557643861e74ea6578915691fc5e6ccfdc4b5e9369d05",
+      "output_sha256": "9f42e31f447f8dd4260557643861e74ea6578915691fc5e6ccfdc4b5e9369d05"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 88).bin",
+      "size": 707952,
+      "input_sha256": "d98e8ec108aadc0c5f87584d90f732897e34b81828d9768b9e0959e52dd87276",
+      "output_sha256": "d98e8ec108aadc0c5f87584d90f732897e34b81828d9768b9e0959e52dd87276"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 89).bin",
+      "size": 1016064,
+      "input_sha256": "75406eee45529816298f886ce8d060405468cb1ac647bddfb4fa1494f51c339c",
+      "output_sha256": "75406eee45529816298f886ce8d060405468cb1ac647bddfb4fa1494f51c339c"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 90).bin",
+      "size": 983136,
+      "input_sha256": "1930a5630e9575705e93ab3a9f642f0633814792d872583acbb6035e15e9b7db",
+      "output_sha256": "1930a5630e9575705e93ab3a9f642f0633814792d872583acbb6035e15e9b7db"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 91).bin",
+      "size": 1065456,
+      "input_sha256": "8480a4ca67abb09fddca9ba57e73240b3d4b5c8b61677cdd8e1a6eaead7ba321",
+      "output_sha256": "8480a4ca67abb09fddca9ba57e73240b3d4b5c8b61677cdd8e1a6eaead7ba321"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 92).bin",
+      "size": 736176,
+      "input_sha256": "38dfdbff07a64aa7a3cdce6dd747e29342888fc236964906d3764a2d3dc071e3",
+      "output_sha256": "38dfdbff07a64aa7a3cdce6dd747e29342888fc236964906d3764a2d3dc071e3"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 93).bin",
+      "size": 707952,
+      "input_sha256": "7a684d85ddf89826406763f1c0a25c2c5b75cbe11137ee7f85808b2ab1740d4e",
+      "output_sha256": "7a684d85ddf89826406763f1c0a25c2c5b75cbe11137ee7f85808b2ab1740d4e"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 94).bin",
+      "size": 1425312,
+      "input_sha256": "f36c1c6f9de38d70f65251761ccfa71b8a77b12e109d917c2596702158774ba5",
+      "output_sha256": "f36c1c6f9de38d70f65251761ccfa71b8a77b12e109d917c2596702158774ba5"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 95).bin",
+      "size": 1312416,
+      "input_sha256": "e5c460520dd005ec59e5b3ec27b05bf4d5043ff03e2637874b9bc1414aed2149",
+      "output_sha256": "e5c460520dd005ec59e5b3ec27b05bf4d5043ff03e2637874b9bc1414aed2149"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 96).bin",
+      "size": 1444128,
+      "input_sha256": "2a063bc17f8723826cbec22bfeb067d6a7be4d11febb300efcccc09b2c57cb52",
+      "output_sha256": "2a063bc17f8723826cbec22bfeb067d6a7be4d11febb300efcccc09b2c57cb52"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 97).bin",
+      "size": 2441376,
+      "input_sha256": "59d9907b305dcc64e5b48fa3435fb791d7d65a8629cb6b93483f603e84b708f5",
+      "output_sha256": "59d9907b305dcc64e5b48fa3435fb791d7d65a8629cb6b93483f603e84b708f5"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 98).bin",
+      "size": 5734176,
+      "input_sha256": "0ed0f2943088d2c618f4d200da888cc57634b4ea625c862593d18871aa4831d7",
+      "output_sha256": "0ed0f2943088d2c618f4d200da888cc57634b4ea625c862593d18871aa4831d7"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 99).bin",
+      "size": 19864992,
+      "input_sha256": "a14230f17ee800d2e0cc912a398b489371b1d765192ea96f92804cb7f388ce64",
+      "output_sha256": "6d322043f00a9aa55a4149387fd327ba44f0e6708622f6cbb76bb2618fecfc9e",
+      "patch": "Cosmic-Fantasy-English-Track99.xdelta",
+      "patch_sha256": "2a37c63d754653593154fae2850a06db05d3282adfeeccb0d28ee41be892037d"
+    },
+    {
+      "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan).cue",
+      "size": 11464,
+      "input_sha256": "d123bb3bbe6100a66de0e0b4b47c82c8db7f4a726c97cbbbaac570f193721180",
+      "output_sha256": "d123bb3bbe6100a66de0e0b4b47c82c8db7f4a726c97cbbbaac570f193721180"
+    }
+  ]
+}

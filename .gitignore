@@ -1,0 +1,9 @@
+*.bin
+*.cue
+*.iso
+*.chd
+*.sav
+*.srm
+*.state
+__pycache__/
+.DS_Store
