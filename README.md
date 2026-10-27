@@ -6,7 +6,7 @@ English dialogue, interface text and cinematic subtitles for **Cosmic Fantasy: B
 
 [Download the patch package](https://github.com/randomprojectsfactory/cosmic-fantasy-pce-english/releases/latest).
 
-Release: **2026.10.23.1**. The package contains two xdelta patches, a hash-checking patcher and documentation. No game disc images, audio tracks, BIOS files or saves are included.
+Release: **2026.10.27.1**. The package contains two xdelta patches, a hash-checking patcher and documentation. No game disc images, audio tracks, BIOS files or saves are included.
 
 ## Features
 
@@ -50,6 +50,8 @@ For manual patching, apply each xdelta to its matching original track, keep the 
 
 ## Cinematic subtitles
 
+This release includes the CRT subtitle-renderer revision. See [renderer and CRT notes](SUBTITLE-RENDERER.md) for the visible changes and reported hardware results.
+
 ![English subtitles over the original cinematic](subtitle-cinematic.png)
 
 ![Planet Norg caption preserving the Japanese artwork](subtitle-planet-norg.png)
@@ -64,7 +66,7 @@ Screenshots are emulator captures.
 
 The native save format is retained. Back up backup-memory saves before moving builds. Emulators and flash cartridges may associate saves and cheats with the CUE filename; retain that filename or copy its associated save data when renaming it. This patcher never modifies saves or cheat files.
 
-Text and subtitle presentation have been checked on PC Engine GT and SuperGrafx with a Turbo EverDrive Pro. Display cropping depends on scaler settings; captions are designed for the game's display area.
+Text and subtitle presentation have been checked on PC Engine GT and SuperGrafx with a Turbo EverDrive Pro. The current renderer was additionally reviewed on SuperGrafx with EDFX RGB/composite output and a Toshiba 20AF43 CRT, with no major rendering problems or unusual flickering reported. Display cropping depends on scaler settings; captions are designed for the game's display area.
 
 ## About the adaptation
 

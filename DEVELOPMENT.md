@@ -33,3 +33,7 @@ Menus, portraits and battles share rendering resources. Clearing a text window m
 Only data Tracks **02 and 99** change. All other tracks remain byte-identical, track lengths are preserved, and changed raw Mode 1 sectors have regenerated error-detection and correction data. Each patch applies directly to the unmodified Japanese track; no earlier English build is required.
 
 The published package is assembled from an explicit allowlist: xdelta differences, a source/output hash manifest, a patcher, documentation and screenshots. It contains no disc image, voice or music track, save, BIOS, or separate game-resource archive. Applying the package must reproduce the expected whole-track SHA-256 values.
+
+## Subtitle renderer revision
+
+See [Subtitle renderer and CRT update](SUBTITLE-RENDERER.md) for a short account of the presentation changes, playback comparison and reported CRT hardware results in 2026.10.27.1.
