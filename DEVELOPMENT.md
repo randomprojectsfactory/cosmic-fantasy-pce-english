@@ -37,3 +37,8 @@ The published package is assembled from an explicit allowlist: xdelta difference
 ## Subtitle renderer revision
 
 See [Subtitle renderer and CRT update](SUBTITLE-RENDERER.md) for a short account of the presentation changes, playback comparison and reported CRT hardware results in 2026.10.27.1.
+
+
+## SuperGrafx compatibility follow-up
+
+Release 2026.10.30.1 corrects a graphics-upload issue that could affect the additional SuperGrafx video controls, particularly in Mode I. Standard PCE support and the established subtitle styling and CRT safeguards are retained. See [compatibility and verification notes](SGX-COMPATIBILITY.md).

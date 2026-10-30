@@ -6,7 +6,9 @@ English dialogue, interface text and cinematic subtitles for **Cosmic Fantasy: B
 
 [Download the patch package](https://github.com/randomprojectsfactory/cosmic-fantasy-pce-english/releases/latest).
 
-Release: **2026.10.27.1**. The package contains two xdelta patches, a hash-checking patcher and documentation. No game disc images, audio tracks, BIOS files or saves are included.
+Release: **2026.10.30.1**. The package contains two xdelta patches, a hash-checking patcher and documentation. No game disc images, audio tracks, BIOS files or saves are included.
+
+This release mainly corrects **SuperGrafx Mode I** cinematic compatibility while retaining standard PC Engine support and the previous CRT subtitle improvements. See [SuperGrafx compatibility and verification](SGX-COMPATIBILITY.md).
 
 ## Features
 
@@ -66,7 +68,7 @@ Screenshots are emulator captures.
 
 The native save format is retained. Back up backup-memory saves before moving builds. Emulators and flash cartridges may associate saves and cheats with the CUE filename; retain that filename or copy its associated save data when renaming it. This patcher never modifies saves or cheat files.
 
-Text and subtitle presentation have been checked on PC Engine GT and SuperGrafx with a Turbo EverDrive Pro. The current renderer was additionally reviewed on SuperGrafx with EDFX RGB/composite output and a Toshiba 20AF43 CRT, with no major rendering problems or unusual flickering reported. Display cropping depends on scaler settings; captions are designed for the game's display area.
+The corrected renderer was tested in Beetle PCE / Mednafen with PCE + Super CD-ROM² and SGX + Super CD-ROM² configurations, with 38 cinematic/event checks passing in each. Hardware checks used a Turbo EverDrive Pro on **SuperGrafx in both Mode I and Mode II**, and on **PC Engine GT**. External-display checks included a **CRT** and a **RetroTINK-4K Pro with a flat panel**. The approved CRT subtitle presentation is retained. See [compatibility notes](SGX-COMPATIBILITY.md) for the scope of these checks. Display cropping depends on scaler settings; captions are designed for the game's display area.
 
 ## About the adaptation
 

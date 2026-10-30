@@ -1,5 +1,5 @@
 {
-  "release": "2026.10.27.1",
+  "release": "2026.10.30.1",
   "requirements": [
     "System Card 3 / Super CD memory",
     "Exact Japanese separate-track raw BIN/CUE disc layout"
@@ -15,9 +15,9 @@
       "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 02).bin",
       "size": 20210736,
       "input_sha256": "f893b19f66d24d30dbd51d086e65452681b0cedfe74ac822901146227948d97c",
-      "output_sha256": "b6285c2c9281268c9d63fba7c09bc8d87b88a420fc351050601767e1e0c21223",
+      "output_sha256": "1e8f21bbeb788f1343d2927beb54ae78536ea1ec46745f05afdaff60b3e7e91b",
       "patch": "Cosmic-Fantasy-English-Track02.xdelta",
-      "patch_sha256": "e040ea8d82ad246c1f7102a2ce355906f4247d44c8d875f07da15292d902225f"
+      "patch_sha256": "8aa9264eec73e077b3455c52e17f157c8a2caa2344d516d4ae23bfcd01adfb8a"
     },
     {
       "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 03).bin",
@@ -601,7 +601,7 @@
       "input_sha256": "a14230f17ee800d2e0cc912a398b489371b1d765192ea96f92804cb7f388ce64",
       "output_sha256": "69cea5ccf3ffb9fb833d18c82781b82dbe3409368c498195d1d3c5d7dfa2bf73",
       "patch": "Cosmic-Fantasy-English-Track99.xdelta",
-      "patch_sha256": "91f0acf255e15b041074987d66452ecf7851e9e86ef28583d9aac53641155e68"
+      "patch_sha256": "037e88454384b2f8aaa1138137f8885a297a4e0155e962556f21d946182c4dea"
     },
     {
       "name": "Cosmic Fantasy - Bouken Shounen Yuu (Japan).cue",

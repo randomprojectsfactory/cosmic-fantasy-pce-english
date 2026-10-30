@@ -1,6 +1,6 @@
 # Subtitle renderer and CRT update
 
-Released in **2026.10.27.1**.
+Introduced in **2026.10.27.1** and retained in **2026.10.30.1**. The later [SuperGrafx compatibility correction](SGX-COMPATIBILITY.md) keeps this subtitle presentation and its CRT safeguards.
 
 ## Why the renderer needed another pass
 

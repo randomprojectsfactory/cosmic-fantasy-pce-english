@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026.10.30.1 — 2026-10-30
+
+- Corrected a cinematic subtitle graphics-upload issue affecting SuperGrafx, principally Mode I.
+- Retained standard PC Engine support and the approved CRT subtitle presentation.
+- Passed 38 cinematic/event checks in both PCE + Super CD-ROM² and SGX + Super CD-ROM² emulation using Beetle PCE / Mednafen.
+- Tested with Turbo EverDrive Pro on SuperGrafx in Mode I and Mode II, and on PC Engine GT. External-display checks covered a CRT and RetroTINK-4K Pro with a flat panel.
+- Updated direct-from-original patches and exact input/output hashes; native saves and cheat associations remain compatible when filenames are retained.
+- Added [SuperGrafx compatibility notes](SGX-COMPATIBILITY.md).
+
 ## 2026.10.27.1 — 2026-10-27
 
 - Revised cinematic subtitle renderer for stable presentation and clearer contrast on CRT displays.
