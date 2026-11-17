@@ -75,3 +75,11 @@ The corrected renderer was tested in Beetle PCE / Mednafen with PCE + Super CD-R
 These cinematics use the PCE game's graphics and CD playback routines rather than modern video files with external subtitle tracks. The captions therefore require an in-game renderer, playback-linked timing, careful graphics-memory ownership, and cleanup on scene transitions and skips. [Development notes](DEVELOPMENT.md) describe the work and [credits](CREDITS.md) acknowledge the original game and English localisation.
 
 This is an unofficial adaptation with no affiliation or endorsement implied. Original game material and the existing English localisation remain the property of their respective rightsholders.
+
+## License and third-party rights
+
+Original contributions are available under the [custom Non-Commercial / No AI Training License](LICENSE.MD). Free non-commercial use and sharing are permitted subject to its conditions. **No sale, resale, paid bundling or other commercial exploitation is permitted except for a verified underlying intellectual-property rightsholder under Section 3.1, after proof and written confirmation.** Owning a game or cartridge does not qualify.
+
+**AI/LLM training, fine-tuning, distillation and model evaluation or improvement require separate explicit written permission.** The commercial exception does not grant AI-training rights.
+
+Third-party games, existing translations, artwork and firmware are excluded from this grant and retain their own rights and terms. See [Third-party notices](THIRD_PARTY_NOTICES.md) and the existing credits. This is a restrictive custom license, not an open-source license.
